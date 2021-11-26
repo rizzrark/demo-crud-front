@@ -2,3 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  font-family: 'Lato';
+  font-weight: 300;
+  src: './public/fonts/Lato-Regular.ttf' format('ttf');
+} ;

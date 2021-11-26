@@ -6,6 +6,7 @@ export default function Home() {
       <Head>
         <title>Contacts App</title>
       </Head>
+      <div className="text-2xl font-bold"> Testing the font </div>
     </div>
   )
 }
